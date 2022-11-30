@@ -41,13 +41,11 @@ Step 4 : Test for the XOR patterns.
 
 ### PROGRAM 
 ```
-
 Developed By: Sai Eswar Kandukuri
 
 Register No: 212221240020
 ```
 ```
-
 import numpy as np
 import pandas as pd
 import io
